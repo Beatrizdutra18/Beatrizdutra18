@@ -1,30 +1,33 @@
-<h1 align="center">Olá! Eu sou a Beatriz 👋</h1>
+<h1 align="center" style="color:white;">👩‍💻 Olá! Eu sou a Beatriz Dutra</h1>
 
-✨ Bem-vindo(a) ao meu perfil do GitHub! ✨
-
-💻 Sou apaixonada por tecnologia, desenvolvimento e resolver problemas criativos.  
-🎓 Atualmente estudando [tecnologia que você tá aprendendo]  
-🚀 Buscando oportunidades para crescer como [dev front-end/back-end/fullstack/etc.]
-
----
-
-### 🛠️ Tecnologias e Ferramentas
-
-![HTML](https://img.shields.io/badge/-HTML5-orange?style=flat-square&logo=html5)
-![CSS](https://img.shields.io/badge/-CSS3-blue?style=flat-square&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=javascript)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+<p align="center">
+  💡 Apaixonada por tecnologia e inovação<br>
+  🎯 Focada em aprender e evoluir sempre<br>
+  🚀 Explorando o mundo do desenvolvimento web
+</p>
 
 ---
 
-### 📈 Estatísticas
+### 🛠️ Tecnologias que estou usando e aprendendo
 
-![Beatriz's GitHub stats](https://github-readme-stats.vercel.app/api?username=Beatrizdutra18&show_icons=true&theme=dracula)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Beatrizdutra18&layout=compact)
+<div align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+</div>
 
 ---
 
-### 📫 Onde me encontrar
+### 📊 Meu GitHub em números
 
-- [LinkedIn](https://www.linkedin.com/in/seu-link-aqui)
-- [Portfólio](https://seu-portfolio.com)
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Beatrizdutra18&show_icons=true&theme=github_dark&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Beatrizdutra18&layout=compact&theme=github_dark&hide_border=true" />
+</div>
+
+---
+
+<p align="center">
+  ✨ Obrigada por visitar meu perfil!
+</p>
