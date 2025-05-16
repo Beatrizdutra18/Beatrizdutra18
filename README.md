@@ -1,9 +1,9 @@
 <div align="center">
   <!-- Header decorativo -->
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=FF69B4&height=100&section=header" alt="Decorative header"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=C71585&height=100&section=header" alt="Decorative header"/>
 
   <!-- Título animado -->
-  <img src="https://readme-typing-svg.herokuapp.com/?color=FF69B4&size=30&center=true&vCenter=true&width=1000&lines=✦+Hello,+my+name+is+Beatriz+Dutra+✦;✦+Welcome+to+my+profile!+✦" alt="Typing introduction"/>
+  <img src="https://readme-typing-svg.herokuapp.com/?color=C71585&size=30&center=true&vCenter=true&width=1000&lines=✦+Hello,+my+name+is+Beatriz+Dutra+✦;✦+Welcome+to+my+profile!+✦" alt="Typing introduction"/>
 
   <!-- Sobre mim -->
   <section style="max-width: 800px; margin: 20px auto; text-align: center; font-family: Arial, sans-serif;">
@@ -15,7 +15,7 @@
   <!-- Animação -->
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Coding animation" width="300"/>
 
-  <hr style="margin-top: 40px; width: 80%; border: 1px solid #FF69B4;">
+  <hr style="margin-top: 40px; width: 80%; border: 1px solid #C71585;">
 </div>
 
 
